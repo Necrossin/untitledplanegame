@@ -1,6 +1,6 @@
 # Untitled Plane Game
 
-A personal project done in under 2 weeks to check if I am somewhat able to make things in C++. 
+A personal project done in under 2 weeks to test if I am somewhat able to make things in C++. 
 Think of it as of miniature LUFTRAUSERS knock-off.
 
 Made with the use of C++ and SDL 2 library (+ few SDL 2 extentions). This also means that I had to include library dlls that are required for this executable file.
@@ -8,7 +8,7 @@ Made with the use of C++ and SDL 2 library (+ few SDL 2 extentions). This also m
 # Features things like:
 
 - Endless level bounds (on X axis at least)
-- Planes/projectiles/clouds generated from text into sprites, because I'm not really a good artist
+- Planes/projectiles/clouds generated from text into sprites because I'm not a good artist
 - Fancy water with reflections
 
 ...and no sounds because I was running out of time.
