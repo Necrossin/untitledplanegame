@@ -21,4 +21,6 @@ Made with the use of C++ and SDL 2 library (+ few SDL 2 extentions).
 
 # Screenshots:
 
-
+![Alt text](https://i.imgur.com/fET8s5S.png?raw=true "Screenshot #1")
+![Alt text](https://i.imgur.com/pvhqdYM.png?raw=true "Screenshot #2")
+![Alt text](https://i.imgur.com/iFJfbYs.png?raw=true "Screenshot #2")
