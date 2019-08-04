@@ -3,7 +3,7 @@
 A personal project done in under 2 weeks to check if I am somewhat able to make things in C++. 
 Think of it as of miniature LUFTRAUSERS knock-off.
 
-Made with the use of C++ and SDL 2 library (+ few SDL 2 extentions).
+Made with the use of C++ and SDL 2 library (+ few SDL 2 extentions). This also means that I had to include library dlls that are required for this executable file.
 
 # Features things like:
 
